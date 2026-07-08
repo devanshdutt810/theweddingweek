@@ -44,8 +44,8 @@ export default function Hero() {
             <Image
               src="/logo/logo.png"
               alt="The Wedding Week"
-              width={480}
-              height={480}
+              width={340}
+              height={340}
               priority
             />
           </BlurReveal>
