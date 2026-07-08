@@ -15,7 +15,7 @@ const notoSans = Noto_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "The Wedding Week",
+  title: "Wedding Week",
   description: "Luxury Fashion & Jewellery Exhibitions",
   icons: {
     icon: "/src/app/icon.png",

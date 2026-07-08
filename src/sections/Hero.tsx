@@ -43,7 +43,7 @@ export default function Hero() {
           <BlurReveal delay={0.15}>
             <Image
               src="/logo/logo.png"
-              alt="The Wedding Week"
+              alt="Wedding Week"
               width={340}
               height={340}
               priority

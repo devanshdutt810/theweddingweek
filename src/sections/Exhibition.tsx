@@ -79,7 +79,7 @@ export default function Exhibition() {
 
             <div className="flex flex-col justify-center p-12 lg:p-16">
               <span className="text-sm uppercase tracking-[0.35em] text-[#C7A36A]">
-                The Wedding Week
+                Wedding Week
               </span>
 
               <h3 className="mt-6 font-heading text-5xl text-white">

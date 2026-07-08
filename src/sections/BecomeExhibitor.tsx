@@ -29,7 +29,7 @@ export default function BecomeExhibitor() {
         >
           Showcase Your Brand
           <br />
-          At The Wedding Week
+          At Wedding Week
         </motion.h2>
 
         <motion.p

@@ -156,7 +156,7 @@ export default function MenuOverlay() {
 
                 <div className="text-right">
                   <p className="text-sm uppercase tracking-[0.35em] text-zinc-500">
-                    The Wedding Week
+                    Wedding Week
                   </p>
 
                   <p className="mt-2 text-zinc-400">

@@ -41,7 +41,7 @@ export default function About() {
           className="order-2 lg:order-1"
         >
           <p className="mb-5 text-center text-xs uppercase tracking-[0.45em] text-[#C7A36A] lg:text-left">
-            ABOUT THE WEDDING WEEK
+            ABOUT WEDDING WEEK
           </p>
 
           <h2 className="text-center font-heading text-4xl leading-tight text-white sm:text-5xl lg:text-left lg:text-6xl">
@@ -53,7 +53,7 @@ export default function About() {
           <div className="mx-auto mt-8 h-px w-24 bg-[#C7A36A] lg:mx-0" />
 
           <p className="mt-8 text-center text-base leading-8 text-zinc-300 md:text-lg md:leading-9 lg:text-left">
-            The Wedding Week is an exclusive exhibition platform that brings
+            Wedding Week is an exclusive exhibition platform that brings
             together India&apos;s finest fashion, jewellery, beauty and
             lifestyle brands under one elegant roof.
           </p>
