@@ -86,7 +86,7 @@ export default function Brands() {
 
       {/* Row 1 */}
 
-      <Marquee speed={95} pauseOnHover gradient={false}>
+      <Marquee speed={95} gradient={false}>
         {row1.map((brand) => (
           <BrandCard key={brand.id} {...brand} />
         ))}
@@ -96,7 +96,7 @@ export default function Brands() {
 
       {/* Row 2 */}
 
-      <Marquee speed={95} direction="right" pauseOnHover gradient={false}>
+      <Marquee speed={95} direction="right" gradient={false}>
         {row2.map((brand) => (
           <BrandCard key={brand.id} {...brand} />
         ))}
