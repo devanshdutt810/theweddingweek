@@ -11,7 +11,7 @@ export default function Hero() {
   return (
     <section
       id="home"
-      className="relative h-screen overflow-hidden bg-[#070707]"
+      className="relative min-h-screen overflow-hidden bg-[#070707]"
     >
       {/* Background */}
 
@@ -36,8 +36,8 @@ export default function Hero() {
 
       {/* Hero */}
 
-      <div className="relative z-10 mx-auto flex h-full max-w-7xl items-center justify-center px-4 -translate-y-20 md:-translate-y-24">
-        <div className="mt-10 flex max-w-4xl flex-col items-center text-center">
+      <div className="relative z-10 mx-auto flex min-h-screen max-w-7xl items-center justify-center px-6">
+        <div className="flex max-w-4xl flex-col items-center justify-center text-center">
           {/* Logo */}
 
           <BlurReveal delay={0.15}>
@@ -47,6 +47,7 @@ export default function Hero() {
               width={340}
               height={340}
               priority
+              className="h-auto w-44 sm:w-52 md:w-64 lg:w-72"
             />
           </BlurReveal>
 
