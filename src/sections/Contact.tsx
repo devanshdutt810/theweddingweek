@@ -9,7 +9,7 @@ const socials = [
   {
     name: "Instagram",
     icon: FaInstagram,
-    href: "https://www.instagram.com/theweddingweekofficial/",
+    href: "https://www.instagram.com/weddingweek.in",
   },
   {
     name: "Facebook",

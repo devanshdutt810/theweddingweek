@@ -129,7 +129,7 @@ export default function MenuOverlay() {
 
                   <div className="mt-5 flex gap-5 text-2xl text-white">
                     <a
-                      href="https://www.instagram.com/theweddingweekofficial/"
+                      href="https://www.instagram.com/weddingweek.in"
                       target="_blank"
                       className="transition hover:text-[#C7A36A]"
                     >
